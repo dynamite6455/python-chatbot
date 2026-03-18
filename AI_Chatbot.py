@@ -27,7 +27,7 @@ def get_ai_response(user_input):
     except Exception as e:
         return f"Connection error: {e}"
 
-slow("---Aryplayz1213's AI Chatbot Started (Type 'quit', 'exit', or 'bye' to stop) ---")
+slow("--- mishra.git's AI Chatbot Started (Type 'quit', 'exit', or 'bye' to stop) ---")
 
 while True:
     user_message = input("You: ")
